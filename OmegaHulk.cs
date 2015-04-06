@@ -5,7 +5,7 @@ using System;
 // issues 10 - 17 2015
 
 // If you enter a number that is not
-// 5 through 17 give positive response
+// 5 through 17 give negative response
 //
 
 class OmegaHulk {
